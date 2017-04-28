@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKOPE-AR-master.Plugins", "SKOPE-AR-master.Plugins.csproj", "{2A0269A6-21B4-946D-4A7B-1EECB971CCB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKOPE-AR-master", "SKOPE-AR-master.csproj", "{909B1670-ECCE-A29C-2BA4-761DBABD16E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKOPE-AR-master.Editor", "SKOPE-AR-master.Editor.csproj", "{F10A424B-F058-B607-B212-30E23DB6DF1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0269A6-21B4-946D-4A7B-1EECB971CCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0269A6-21B4-946D-4A7B-1EECB971CCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0269A6-21B4-946D-4A7B-1EECB971CCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0269A6-21B4-946D-4A7B-1EECB971CCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909B1670-ECCE-A29C-2BA4-761DBABD16E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909B1670-ECCE-A29C-2BA4-761DBABD16E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909B1670-ECCE-A29C-2BA4-761DBABD16E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909B1670-ECCE-A29C-2BA4-761DBABD16E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10A424B-F058-B607-B212-30E23DB6DF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10A424B-F058-B607-B212-30E23DB6DF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10A424B-F058-B607-B212-30E23DB6DF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10A424B-F058-B607-B212-30E23DB6DF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DetailCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Details>
+		<MajorDetail name="Beam">
+			<Material>Reinfoced conctrete</Material>
+			<Size>18 in X 24 in</Size>
+			<Description>beam balabala bala balabal </Description>
+			<RValue>75</RValue>
+			<Weight>450 1b/ft</Weight>
+			<Cost>400</Cost>
+		</MajorDetail>
+		<MajorDetail name="Column ">
+			<Material>Reinfoced conctrete</Material>
+			<Size>14 in x14 in </Size>
+			<Description> xjashxx masaa</Description>
+			<RValue>45</RValue>
+			<Weight>450 1b/ft</Weight>
+			<Cost>500</Cost>
+		</MajorDetail>
+		<MajorDetail name="Beam to Column connection ">
+			<Material>Reinfoced conctrete</Material>
+			<Size>14 in x14 in </Size>
+			<Description>blabla- rigid connection </Description>
+			<Weight>450 1b/ft</Weight>
+			<Cost>1200</Cost>
+		</MajorDetail>
+		<MajorDetail name="Partition Wall ">
+			<Material>Steel Studs and Wood Panelling </Material>
+			<Size>8 inches thick</Size>
+			<Description>no desc</Description>
+			<RValue>35</RValue>
+			<Weight>450 1b/ft</Weight>
+			<Cost>500</Cost>
+		</MajorDetail>
+		<MajorDetail name="fabric">
+			<Material>panel</Material>
+			<Size>4inches</Size>
+			<Description>bla again</Description>
+			<RValue>25</RValue>
+			<Weight>450 1b/ft</Weight>
+			<Cost>600</Cost>
+		</MajorDetail>
+	</Details>
+</DetailCollection>

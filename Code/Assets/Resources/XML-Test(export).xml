@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<tag>
+		<DetailType>Envelope</DetailType>
+		<Name>2" Double Glazed Glass Panel</Name>
+		<Material>Glass</Material>
+		<RValue>25</RValue>
+		<UValue>75</UValue>
+		<Cost>400</Cost>
+	</tag>
+	<tag>
+		<DetailType>Structure</DetailType>
+		<Name>Column</Name>
+		<Material>Reinforced Concrete</Material>
+		<RValue>45</RValue>
+		<UValue>65</UValue>
+		<Cost>1000</Cost>
+	</tag>
+</data-set>

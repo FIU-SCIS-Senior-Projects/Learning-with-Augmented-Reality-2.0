@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DetailCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Details>
+		<MajorDetail detailNumber="E1">
+			<Name>South Column</Name>
+			<Material>Steel Wide flange </Material>
+			<Size>HSS 14in x 6in x 3/8in  </Size>
+			<Description>Square Hollow Structural Section (HSS)</Description>
+		</MajorDetail>
+		<MajorDetail detailNumber="E1">
+			<Name>South Beam </Name>
+			<Material>Reinforced Concrete</Material>
+			<Size>18" x 12"</Size>
+		</MajorDetail>
+		<MajorDetail detailNumber="E1">
+			<Name>South Foundation</Name>
+			<Material>Reinforced Concrete</Material>
+			<Size>48" CONT.</Size>
+			<Attach>South Foundation.JPG</Attach>
+		</MajorDetail>
+		<MajorDetail detailNumber="E1">
+			<Name>South Wall Panels</Name>
+		</MajorDetail>
+		<MajorDetail detailNumber="E1">
+			<Name>South Windows</Name>
+		</MajorDetail>
+		<MajorDetail detailNumber="E1">
+			<Name>South Doors</Name>
+		</MajorDetail>
+		<MajorDetail detailNumber="E1">
+			<Name>South Flooring</Name>
+			<Material>Terrazo</Material>
+			<Size>varies</Size>
+			<Description>Flooring material. Manufacturer: Key Resin. Model: TZ-D-D41-09</Description>
+		</MajorDetail>
+		<MajorDetail detailNumber="E2">
+			<Name>North Column </Name>
+			<Material>Reinforced conctrete</Material>
+			<Size>24in x 24in </Size>
+			<RValue>75</RValue>
+			<Wieght>450 1b/ft</Wieght>
+			<Cost>400</Cost>
+		</MajorDetail>
+		<MajorDetail detailNumber="E2">
+			<Name>North Beam </Name>
+			<Material>Reinforced conctrete</Material>
+			<Size>14in x 14in </Size>
+			<Wieght>450 1b/ft</Wieght>
+			<Cost>1200</Cost>
+		</MajorDetail>
+		<MajorDetail detailNumber="E2">
+			<Name>North Foundation</Name>
+			<Material>Reinforced conctrete</Material>
+			<Size>10'-0" x 10'-0" x 30"</Size>
+			<RValue>45</RValue>
+			<Wieght>450 1b/ft</Wieght>
+			<Cost>500</Cost>
+		</MajorDetail>
+		<MajorDetail detailNumber="E2">
+			<Name>North Footing Beam</Name>
+			<Material>Reinforced Concrete</Material>
+			<Size>30" x 30"</Size>
+		</MajorDetail>
+		<MajorDetail detailNumber="E2">
+			<Name>North Partition Wall</Name>
+			<Material>Studs with Gypsum</Material>
+		</MajorDetail>
+		<MajorDetail detailNumber="E2">
+			<Name>North Wall Panels</Name>
+			<Material>Wood</Material>
+			<Size>42" x 42"</Size>
+			<Description>Custom wood panels, model Natura by Hunter Douglas </Description>
+		</MajorDetail>
+		<MajorDetail detailNumber="E2">
+			<Name>North Audio/Video</Name>
+			<Material>Wall mounted TV</Material>
+			<Size>3'-6" x 3'-6" tiles</Size>
+		</MajorDetail>
+		<MajorDetail detailNumber="E3">
+			<Name>West Mat Foundation </Name>
+			<Material>Reinfoced conctrete</Material>
+			<Size>36"</Size>
+			<Description>(-)4'-0" Elevation</Description>
+		</MajorDetail>
+		<MajorDetail detailNumber="E3">
+			<Name>West Shear Wall </Name>
+		</MajorDetail>
+		<MajorDetail detailNumber="S1">
+			<Name>North Truss system</Name>
+			<Material>Steel Wide flange </Material>
+			<Size>W18 x 86</Size>
+			<Description>Truss diagonal 18 inches deep and 86 pounds per foot</Description>
+		</MajorDetail>
+		<MajorDetail detailNumber="E4">
+			<Name>South Truss System</Name>
+			<Material>Steel Wide flange </Material>
+		</MajorDetail>
+		<MajorDetail detailNumber="S1">
+			<Name>East Truss System</Name>
+			<Material>Steel Wide flange </Material>
+			<Size>W16x57</Size>
+			<Description>Truss is suspended 16'-6.5" from ground, connecting floor, roof and east and west trusses.</Description>
+		</MajorDetail>
+		<MajorDetail detailNumber="S1">
+			<Name>Cantilever Floor Structure</Name>
+			<Material>One-way Framing System</Material>
+			<Size>Steel</Size>
+			<Description>Steel structure is arranged in rectangular base to carry the load by bending in only one direction</Description>
+		</MajorDetail>
+		<MajorDetail detailNumber="S1">
+			<Name>Cantilever Roof Structure</Name>
+			<Material>Open web joists</Material>
+			<Size>44 LH 15</Size>
+			<Description>Variable legnth </Description>
+		</MajorDetail>
+		<MajorDetail detailNumber="S1">
+			<Name>Laminate Wall Panels</Name>
+			<Material>Plastic laminate</Material>
+			<Size>varies</Size>
+			<Description>Manufacturer: Wilsonart. Model: 78050-60</Description>
+		</MajorDetail>
+	</Details>
+</DetailCollection>

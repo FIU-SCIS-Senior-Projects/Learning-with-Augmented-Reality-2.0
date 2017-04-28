@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: f7feb5b0749de9249890d426fe9436d2
+timeCreated: 1479324212
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>116'
+    100002: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>117'
+    100004: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>118'
+    100006: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>119'
+    100008: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>122'
+    100010: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>123'
+    100012: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>124'
+    100014: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>125'
+    100016: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>126'
+    100018: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>127'
+    100020: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>150'
+    100022: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>151'
+    100024: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>152'
+    100026: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>153'
+    100028: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>154'
+    100030: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>155'
+    100032: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>158'
+    100034: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>159'
+    100036: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>160'
+    100038: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>161'
+    100040: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>018'
+    100042: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>019'
+    100044: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>022'
+    100046: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>023'
+    100048: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>024'
+    100050: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>025'
+    100052: //RootNode
+    100054: 'Floors <Floor : Generic - 12" High>001'
+    100056: 'Floors <Floor : Generic - 12" High>004'
+    100058: 'Floors <Floor : Generic - 12" High>011'
+    100060: 'Floors <Floor : Generic - 12" High>012'
+    400000: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>116'
+    400002: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>117'
+    400004: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>118'
+    400006: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>119'
+    400008: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>122'
+    400010: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>123'
+    400012: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>124'
+    400014: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>125'
+    400016: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>126'
+    400018: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>127'
+    400020: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>150'
+    400022: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>151'
+    400024: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>152'
+    400026: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>153'
+    400028: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>154'
+    400030: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>155'
+    400032: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>158'
+    400034: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>159'
+    400036: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>160'
+    400038: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>161'
+    400040: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>018'
+    400042: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>019'
+    400044: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>022'
+    400046: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>023'
+    400048: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>024'
+    400050: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>025'
+    400052: //RootNode
+    400054: 'Floors <Floor : Generic - 12" High>001'
+    400056: 'Floors <Floor : Generic - 12" High>004'
+    400058: 'Floors <Floor : Generic - 12" High>011'
+    400060: 'Floors <Floor : Generic - 12" High>012'
+    2300000: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>117'
+    2300002: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>119'
+    2300004: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>123'
+    2300006: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>125'
+    2300008: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>127'
+    2300010: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>151'
+    2300012: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>153'
+    2300014: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>155'
+    2300016: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>159'
+    2300018: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>161'
+    2300020: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>019'
+    2300022: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>023'
+    2300024: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>025'
+    2300026: 'Floors <Floor : Generic - 12" High>004'
+    2300028: 'Floors <Floor : Generic - 12" High>012'
+    3300000: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>117'
+    3300002: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>119'
+    3300004: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>123'
+    3300006: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>125'
+    3300008: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>127'
+    3300010: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>151'
+    3300012: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>153'
+    3300014: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>155'
+    3300016: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>159'
+    3300018: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>161'
+    3300020: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>019'
+    3300022: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>023'
+    3300024: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>025'
+    3300026: 'Floors <Floor : Generic - 12" High>004'
+    3300028: 'Floors <Floor : Generic - 12" High>012'
+    4300000: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>117'
+    4300002: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>119'
+    4300004: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>123'
+    4300006: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>125'
+    4300008: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>127'
+    4300010: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>151'
+    4300012: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>153'
+    4300014: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>155'
+    4300016: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>159'
+    4300018: 'Ceilings <Compound Ceiling : 2'' x 2'' ACT System>161'
+    4300020: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>019'
+    4300022: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>023'
+    4300024: 'Ceilings <Compound Ceiling : GWB on Mtl. Stud>025'
+    4300026: 'Floors <Floor : Generic - 12" High>012'
+    4300028: 'Floors <Floor : Generic - 12" High>004'
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

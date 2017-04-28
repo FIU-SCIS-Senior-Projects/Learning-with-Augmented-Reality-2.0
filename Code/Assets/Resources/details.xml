@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DetailCollection>
+  <Details>
+    <Detail detailType = "Envelope">
+    <Name>2" Double Glazed Glass Panel</Name>
+    <Material>Glass</Material>
+    <RValue>25</RValue>
+    <UValue>75</UValue>
+    <Cost>400</Cost>
+    </Detail>
+    <Detail detailType = "Structural">
+	    <Name>Column</Name>
+	    <Material>Reinforced Concrete</Material>
+	    <RValue>45</RValue>
+	    <UValue>65</UValue>
+	    <Cost>1000</Cost>
+    </Detail>
+  </Details>
+</DetailCollection>

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ArchiveScenes/Home(old).unity
+  - enabled: 0
+    path: Assets/Scenes/ArchiveScenes/DiagramWindow.unity
+  - enabled: 0
+    path: Assets/Scenes/ArchiveScenes/LightAndHeat2D.unity
+  - enabled: 0
+    path: Assets/Scenes/Home.unity
+  - enabled: 0
+    path: Assets/Home(Lighter).unity
+  - enabled: 0
+    path: Assets/Home(Re-linkedVR).unity
+  - enabled: 0
+    path: Assets/Home(VR_Albert020317).unity
+  - enabled: 0
+    path: Assets/AndroidBuild.unity
+  - enabled: 0
+    path: Assets/Home(VR_Albert020617).unity
+  - enabled: 0
+    path: Assets/AR_Jeff020917.unity
+  - enabled: 0
+    path: Assets/Home (AR).unity
+  - enabled: 0
+    path: Assets/Home(AR_Jeff).unity
+  - enabled: 1
+    path: Assets/Home(AR_Albert031417).unity
